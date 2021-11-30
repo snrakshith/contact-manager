@@ -1,0 +1,19 @@
+.contact-card {
+  display: flex;
+  justify-content: space-between;
+  width: 450px;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.right {
+  display: flex;
+}
+.right > img {
+  width: 35px;
+  height: 35px;
+  margin-top: 15px;
+}
+.info {
+  margin: 5px 0 0 5px;
+}

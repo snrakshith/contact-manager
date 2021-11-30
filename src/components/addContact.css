@@ -1,0 +1,16 @@
+.inputContainer {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
+.inputContainer > input {
+  padding: 10px;
+  width: 450px;
+}
+.inputContainer > label {
+  margin: 5px 0;
+}
+.form > button {
+  margin-top: 10px;
+  width: 80px;
+}
